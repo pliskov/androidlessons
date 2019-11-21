@@ -1,0 +1,2 @@
+include ':p0061layouts'
+rootProject.name='Android lessons'
